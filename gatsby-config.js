@@ -9,13 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Wesele Magdaleny i Damiana`,
-    author: {
-      name: `Damian Ptaszynski`,
-      summary: `Witamy na stronie poświęconej weselu Magdaleny i Damiana.`,
-    },
+    title: `Magdalena i Damian`,
     description: `Witamy na stronie poświęconej weselu Magdaleny i Damiana.`,
-    siteUrl: `https://ptaszynski.it/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -107,7 +102,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Wesele Magdaleny i Damiana`,
+        name: `Magdalena i Damian`,
         short_name: `Ślub`,
         start_url: `/`,
         background_color: `#d4edb9`,

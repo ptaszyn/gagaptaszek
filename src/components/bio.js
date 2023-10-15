@@ -35,7 +35,7 @@ const Bio = () => {
       <p>
         Witamy na stronie poświęconej naszemu weselu! <br></br>
         Dowiecie się tu wszystkiego co jest Wam potrzebne aby spokojnie spędzić
-        21 października 2023r.
+        21 października.
       </p>
     </div>
   )

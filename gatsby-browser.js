@@ -2,6 +2,7 @@
 //import "@fontsource-variable/montserrat"
 //import "@fontsource/merriweather"
 import "@fontsource/carattere"
+import "@fontsource/libre-baskerville"
 // normalize CSS across browsers
 import "./src/normalize.css"
 // custom CSS styles

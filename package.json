@@ -1,7 +1,7 @@
 {
   "name": "gagaptaszek",
   "private": true,
-  "description": "Wesele Magdaleny i Damiana",
+  "description": "Magdalena i Damian",
   "version": "0.1.0",
   "author": "Damian Ptaszynski <damian.ptaszynski@gmail.com>",
   "bugs": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.0.4",
     "@fontsource/carattere": "^5.0.8",
+    "@fontsource/libre-baskerville": "^5.0.8",
     "@fontsource/merriweather": "^5.0.3",
     "gatsby": "^5.12.4",
     "gatsby-omni-font-loader": "^2.0.2",
