@@ -34,8 +34,7 @@ const Bio = () => {
     <div className="bio">
       <p>
         Witamy na stronie poświęconej naszemu weselu! <br></br>
-        Dowiecie się tu wszystkiego co jest Wam potrzebne aby spokojnie spędzić
-        21 października.
+        Znajdziecie tu wszystkie niezbędne informacje organizacyjne.
       </p>
     </div>
   )
