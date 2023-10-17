@@ -8,7 +8,7 @@ Na terenie kompleksu znajdują się domki gdzie zarezerwowaliśmy dla Ciebie noc
 
 > 1. Domki dostępne są od 14:00 - spokojnie więc przyjedź i zostaw swoje rzeczy.
 
-> 2. Klucze odbierzesz w restauracji swoje nazwisko. Tam dowiesz się też jaki masz przydzielony numer domku.
+> 2. Klucze odbierzesz w restauracji podając swoje nazwisko. Tam dowiesz się też jaki masz przydzielony numer domku.
 
 > 3. Ślub zaczyna się o 16:00 w oddalonym o 5 km Kościele pw. św. Jakuba w Piotrowicach (Piotrowice 40 08-540).
 
