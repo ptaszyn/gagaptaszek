@@ -12,7 +12,9 @@ Na terenie kompleksu znajdują się domki gdzie zarezerwowaliśmy dla Ciebie noc
 
 > 3. W każdym domku jest klimatyzacja, lodówka i płyta kuchenna. Domek posiada 2 sypialnie, salon i łazienkę.
 
+Plan rozmieszczenia domków:
 ![domki](./domki.png)
 
+Zdjęcia domków:
 ![domek](./domek.jpg)
 ![kuchnia](./kuchnia.jpg)
